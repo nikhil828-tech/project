@@ -49,11 +49,6 @@ start.addEventListener("click", () => {
 
 console.log(start);
 
-/*const end= document.querySelector('Pushed');
-end.addEventListener("click",()=>{  
-clearInterval(intervalid);
-  intervalid=null;
-});*/
 
 const reset = document.querySelector('#reset');
 
